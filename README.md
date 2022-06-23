@@ -16,7 +16,7 @@
 ## Setup/Installation Requirements
 
 * _clone repo to pc_
-* _run npm install --save-dev_
+* _run npm ci_
 * _run `$ npm install webpack@4.39.3 --save-dev --save-exact`_
 * _`$ npm install webpack-cli@3.3.8 --save-dev`_
 * _`$ npm install webpack-dev-server@3.8.0 --save-dev --save-exact`_
