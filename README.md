@@ -6,10 +6,12 @@
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS/Bootstrap_
+* _Javascript/Jquery_
+* _Markdown_
+* _Node.JS_
+* _See **package.json** for full list of dependencies._
 
 ## Description
 
